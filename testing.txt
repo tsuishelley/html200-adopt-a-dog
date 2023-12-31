@@ -1,0 +1,26 @@
+Device Testing:
+Tested on latest version of Google Chrome on a 14 inch Macbook Pro as well as Chrome mobile on an iPhoneX.
+
+————————
+
+User Persona:
+Name: Emily Lee
+Occupation: Recently graduated, working an entry-level tech position
+Age: 25
+Devices: Macbook Pro, iPhoneX
+Goals:
+- Loves spending time with her friend’s dogs and is feeling inspired to adopt one (or a pair!) of her own to adventure with.
+- Enjoys the outdoors and exploring new trails and hiking spots.
+- Dedicated to learning as much as she can about what breed matches her lifestyle and how to properly care for a dog.
+- Typically spends time on her phone browsing the internet when she's just playing around online, associates her desktop with doing work/
+being more productive. Most likely to access AdoptADog on a mobile device.
+
+————————
+
+Google Chrome Testing:
+**Tested on latest version of Google Chrome on a 14 inch Macbook Pro.
+- Experienced a awkward in-between state on the home page so increased max-width from 768 to 1024.
+
+Mobile Testing:
+**Tested on an actual iPhoneX and used the Google developer tool to view the site on an iPhoneXR.
+- At mobile sizing, footer description and links became overly narrow. Updated padding left/right from default to 2rem for both sides.
